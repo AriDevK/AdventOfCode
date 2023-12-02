@@ -3,7 +3,7 @@
 ---
 
 
-![happy_angry_dog]()
+![happy_angry_dog](https://github.com/AriDevK/AdventOfCode/blob/main/2023/day2/assets/dog.webp)
 > Difficulty [3/10] (little dog) ⭐⭐⭐
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
