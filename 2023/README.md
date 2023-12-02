@@ -2,7 +2,7 @@
 
 ---
 
-![christmas_gif]()
+![christmas_gif](https://github.com/AriDevK/AdventOfCode/blob/main/2023/assets/dance.gif)
 
 This is the first year I'm doing Advent of Code. I'm using it as an opportunity to learn Go.
 
