@@ -2,7 +2,7 @@
 
 ---
 
-![oh_no]()
+![oh_no](https://github.com/AriDevK/AdventOfCode/blob/main/2023/day1/assets/oh_no.jpg)
 > Difficulty [4/10] (tricky as fuck) ⭐⭐⭐⭐🤡️🤡️🤡🤡🤡🤡️ 
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
