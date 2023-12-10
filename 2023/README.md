@@ -19,8 +19,15 @@ At this moment this how we go:
 |:---:|:----:|:---:|:----------:|:--------:|:----------------:|
 |  1  |  1   | Go |    15 m    |    ⭐     |       easy       |
 |  1  |  2   | Go |   1h 45m   |    🤡    |  tricky as fuck  |
+|||||||
+|||||||
 |  2  |  1   | Go |     1h     |    🤨    |     easier?      |
 |  2  |  2   | Go |    30m     | 👍🏻 | life is plain :D |
+|||||||
+|||||||
+|  3  |  1   | Go |    30m     | 👍🏻 | matrix |
+|  3  |  2   | Go |    3 Fuckin' days     | ⚙️ | gears... |
+
 
 
 
