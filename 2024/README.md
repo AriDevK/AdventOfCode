@@ -12,7 +12,8 @@ At this moment this how we go:
 |:---:|:----:|:---:|:----------:|:--------:|:----------------:|
 |  1  |  1   | C# |    15 m    |    ⭐     |       easy       |
 |  1  |  2   | C# |   5m   |    😎    |  GG IZZY  |
-
+|  2  |  1   | C# |    49m    |    🪄     |       Linq did its magic       |
+|  2  |  2   | C# |   47m   |    💪🏻    |  BRUTE FORCE!! (just a little hehe)  |
 
 
 
